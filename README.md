@@ -1,7 +1,5 @@
 <h1>⭐ Hello world, I'm Gabriel ⭐</h1>
 
-<br>
-
 <h4>🔬Computer Science student at the Centro Universitário Nossa Senhora do Patrocínio (CEUNSP)</h4>
 <h4>🖥Passionate learner about full-stack programming</h4>
 <h4>➡Focused on developing my programmer career </h4>
@@ -15,9 +13,8 @@
 
 <br>
 
-<h2>💡 Languages & Tools</h2>
-
 <div>
+  <h2>💡 Languages & Tools</h2>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -43,7 +40,4 @@
   <a href = "mailto:gabriel.pizol.pessoal@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-pizol-tesotto-463500247/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<img src="https://github.com/GabrielPizol/GabrielPizol/blob/output/github-contribution-grid-snake.svg">
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
