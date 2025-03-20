@@ -1,4 +1,4 @@
-<h1>⭐ Hello world, I'm Gabriel ⭐</h1>
+<div align=center><h1>⭐ Hello world, I'm Gabriel ⭐</h1>
 
 <h4>🔬Computer Science student at the Centro Universitário Nossa Senhora do Patrocínio (CEUNSP)</h4>
 <h4>🖥Passionate learner about full-stack programming</h4>
@@ -39,5 +39,6 @@
   <a href="https://www.instagram.com/gabriel_pizol/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.pizol.pessoal@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-pizol-tesotto-463500247/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 </div>
 
